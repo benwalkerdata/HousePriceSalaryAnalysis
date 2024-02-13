@@ -1,2 +1,2 @@
 # HousePriceSalaryAnalysis
-a Jupyter notebook contain code to explore and analyse house price and salary datasets. 
+a Jupyter notebook written in python exploring and analysing trends in house prices and salaries.
